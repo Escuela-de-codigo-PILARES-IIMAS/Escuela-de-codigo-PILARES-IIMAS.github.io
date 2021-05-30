@@ -1,0 +1,19 @@
+main:
+  - name: Participantes
+    url: '/members'
+    weight: 1
+  - name: Documentos
+    url: /docs
+    weight: 2
+  - name: Publicaciones
+    url: /publications
+    weight: 3
+  - name: Media
+    url: /press
+    weight: 4
+  - name: Preguntas frecuentes
+    url: /faq
+    weight: 5
+  - name: Contacto
+    url: /contact
+    weight: 6
