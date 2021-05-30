@@ -1,13 +1,14 @@
 since: 2021
 homeType: simple
 navType: simple
+showGeneratedList: false
 headerType: image_header
 taxonomyHeaderType: simple
 footerType: bar_with_2_columns
 title: Escuela de Código PILARES-IIMAS
 subtitle: Diseño de un programa de estudios para la capacitación en programación y habilidades en tecnologías de información y comunicación para la escuela de código dentro de PILARES de la Ciudad de México (SECTEI/284/2019)
 headerImage:
-    src: wordcloud.png
+    src: /wordcloud.png
 
 footerLinksColumn1:
     IIMAS:

@@ -11,9 +11,12 @@ main:
   - name: Media
     url: /press
     weight: 4
+  - name: Agradecimientos
+    url: /acknolegment
+    weight: 5
   - name: Preguntas frecuentes
     url: /faq
-    weight: 5
+    weight: 6
   - name: Contacto
     url: /contact
-    weight: 6
+    weight: 7
