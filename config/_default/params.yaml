@@ -1,0 +1,25 @@
+since: 2021
+homeType: simple
+navType: simple
+headerType: image_header
+taxonomyHeaderType: simple
+footerType: bar_with_2_columns
+
+footerLinksColumn1:
+    IIMAS:
+        link: "https://www.iimas.unam.mx"
+        fullname: Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas
+    UNAM:
+        link: "https://www.unam.mx"
+        fullname: Universidad Nacional Autónoma de México
+
+footerLinksColumn2:
+    PILARES:
+        link: "https://pilares.cdmx.gob.mx/inicio"
+        fullname: Puntos de Innovación, Libertad, Arte, Educación y Saberes
+    SECTEI:
+        link: "https://www.sectei.cdmx.gob.mx/"
+        fullname: Secretaría de Educación, Ciencia, Tecnología e Innovación
+    XCDMX:
+        link: "https://www.cdmx.gob.mx/"
+        fullname: Gobierno de la Ciudad de México
