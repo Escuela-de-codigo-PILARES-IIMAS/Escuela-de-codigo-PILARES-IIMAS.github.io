@@ -1,22 +1,22 @@
 main:
   - name: Participantes
     url: '/members'
-    weight: 1
-  - name: Documentos
-    url: /docs
     weight: 2
+  - name: Plan de estudio
+    url: /docs
+    weight: 1
   - name: Publicaciones
     url: /publications
     weight: 3
-  - name: Media
-    url: /press
-    weight: 4
+    #  - name: Media
+    #url: /press
+    #weight: 4
   - name: Agradecimientos
     url: /acknolegment
     weight: 5
-  - name: Preguntas frecuentes
-    url: /faq
-    weight: 6
+    # - name: Preguntas frecuentes
+    # url: /faq
+    # weight: 6
   - name: Contacto
     url: /contact
     weight: 7

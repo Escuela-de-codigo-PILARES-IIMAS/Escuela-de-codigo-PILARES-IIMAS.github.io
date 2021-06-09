@@ -6,14 +6,27 @@ title: "Participantes"
 
 Encargadas del desarrollo de actividades
 
-* Alexa Alva, FFyL
-* Andrea García, FI
-* Alejandra Monroy, FI
-* Carla Palacios, FFyL
-* Elisa Váldes, FFyL
-* Héctor Islas, FFyL
-* Karina Flores, FI
-* Luz Rueda, FI
+* Alexa Alva, [Pedagogía](http://pedagogia.filos.unam.mx/),
+    [FFyL](http://www.filos.unam.mx/)
+* Andrea García, [Ing. en
+    Computación](https://www.ingenieria.unam.mx/programas_academicos/licenciatura/computacion.php),
+    [FI](https://www.ingenieria.unam.mx/)
+* Alejandra Monroy, [Ing. en
+    Computación](https://www.ingenieria.unam.mx/programas_academicos/licenciatura/computacion.php),
+    [FI](https://www.ingenieria.unam.mx/)
+* Carla Palacios, [Pedagogía](http://pedagogia.filos.unam.mx/),
+    [FFyL](http://www.filos.unam.mx/)
+* Elisa Váldes, [Pedagogía](http://pedagogia.filos.unam.mx/),
+    [FFyL](http://www.filos.unam.mx/)
+* Héctor Islas, [Pedagogía](http://pedagogia.filos.unam.mx/),
+    [FFyL](http://www.filos.unam.mx/)
+* Karina Flores, [Ing. en
+    Computación](https://www.ingenieria.unam.mx/programas_academicos/licenciatura/computacion.php),
+    [FI](https://www.ingenieria.unam.mx/)
+* Luz Rueda, [Ing. en
+    Computación](https://www.ingenieria.unam.mx/programas_academicos/licenciatura/computacion.php),
+    [FI](https://www.ingenieria.unam.mx/)
+
 
 ### Expertos
 
@@ -23,7 +36,7 @@ Apoyo en áreas de conocimiento
 * Karen Bruno, Pedagogía
 * Yuliana López, Perspectiva de Género
 
-### DGDTI
+### [PILARES]()
 
 Seguimiento desarrollo de programa de estudios
 
@@ -31,7 +44,7 @@ Seguimiento desarrollo de programa de estudios
 * Jesús Alanis
 * René Rivas
 
-### IIMAS
+### [IIMAS](http://www.iimas.unam.mx), [UNAM](http://www.unam.mx)
 
 Coordinadores módulos
 
