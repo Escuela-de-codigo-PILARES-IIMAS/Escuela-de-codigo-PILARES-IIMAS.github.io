@@ -17,7 +17,7 @@ hasCJKLanguage: false # Set `true` for Chinese/Japanese/Korean.
 defaultContentLanguageInSubdir: false
 
 # Uncomment for google analytics
-googleAnalytics: G-EDCBRJ3ZCN
+googleAnalytics: G-RV0SEKL3S3
 
 markup:
   # Do not modify markup.highlight
