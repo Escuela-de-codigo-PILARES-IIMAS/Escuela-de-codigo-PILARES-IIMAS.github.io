@@ -14,6 +14,12 @@ a:active {
 	color: #00b146;
 }
 
+.btn-primary {
+	background-color: #00b146 !important;
+	border-color: #00b146 !important;
+}
+
+
 .bg-secondary {
     background-color: #000 !important;
 }

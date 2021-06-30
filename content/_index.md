@@ -24,6 +24,6 @@ Para conocer el más sobre la motivación y organización del plan de estudios p
 * [Motores del contenido]({{< ref "motors" >}})
 * [Estadios técnicos por módulo]({{< ref "modulos" >}})
 
-En la sección de [Plan de estudio]({{< ref "docs" >}}) puedes encontrar los
-documentos que integran el plan de estudio.
-
+<center>
+<button type="button" class="btn btn-primary btn-lg" href='{{< ref "docs" >}}'>Explorar el plan de esudios</button>
+</center>
