@@ -3,7 +3,9 @@ title: Motores
 ---
 
 Para el diseño de los módulos y talleres, y la redacción de las actividades
-además del contenido técnico se identificaron seis motores que rigen el desarrollo del contenido que integra al plan de estudio y que en conjunto hace al material único:
+además del contenido técnico se identificaron seis motores que rigen el
+desarrollo del contenido que integra al plan de estudios y que en conjunto
+hacen al material único:
 
 1. La perspectiva de género.
 2. El aprendizaje por competencias.
@@ -37,7 +39,7 @@ otras participantes, cuando esto sea posible, y algunas actividades y proyectos
 promueven la exploración de los espacios y estructura de los
 [PILARES](https://pilares.cdmx.gob.mx). Adicionalmente el contenido se pensó
 para que se desarrolle en las instalaciones de Escuela de Código, con horarios
-flexibles y de forma asíncrona de tal forma que la participante tenga un amplio
+flexibles y asíncrona de tal forma que la participante tenga un amplio
 margen de organización con respecto al avance de las actividades y la tallerista
 tenga una guía que permita evaluar este avance.
 
