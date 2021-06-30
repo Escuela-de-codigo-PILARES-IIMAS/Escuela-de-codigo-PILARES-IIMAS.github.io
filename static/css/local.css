@@ -19,6 +19,27 @@ a:active {
 	border-color: #00b146 !important;
 }
 
+a.btn-primary:link {
+    color: #fff;
+}
+
+/* visited link */
+a.btn-primary:visited {
+	color: #fff;
+}
+
+/* mouse over link */
+a.btn-primary:hover {
+	color: #008631;
+}
+
+/* selected link */
+a.btn-primary:active {
+	color: #fff;
+}
+
+
+
 
 .bg-secondary {
     background-color: #000 !important;
