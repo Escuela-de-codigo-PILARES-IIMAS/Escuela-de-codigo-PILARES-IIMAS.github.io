@@ -10,7 +10,7 @@ tecnologías de información y comunicación para la escuela de código dentro d
 PILARES de la Ciudad de México"_ (284/2019) apoyado por SECTEI
 
 
-Por el tiempo invertido en retroalimentar el material a:
+Agradecemos por el tiempo invertido en retroalimentar el material a:
 
 * Ante Salcedo González, ITAM - Instituto Tecnológico Autónomo de México
 * Blanca Esther Carvajal-Gámez, ESCOM - Escuela Superior de Cómputo - IPN
@@ -25,7 +25,7 @@ Por el tiempo invertido en retroalimentar el material a:
 
 
 También agradecemos el seguimiento del desarrollo del proyecto por parte del
-personal de SECTEI, en particular de:
+personal de SECTEI, en particular a:
 
 * José Bernardo Rosas, DGDTI, SECTEI
 * Federico Hernández, DGDTI, SECTEI
