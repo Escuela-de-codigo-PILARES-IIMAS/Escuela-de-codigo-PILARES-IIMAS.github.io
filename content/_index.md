@@ -25,5 +25,5 @@ Para conocer el más sobre la motivación y organización del plan de estudios p
 * [Estadios técnicos por módulo]({{< ref "modulos" >}})
 
 <center>
-<button type="button" class="btn btn-primary btn-lg" href='{{< ref "docs" >}}'>Explorar el plan de esudios</button>
+<a type="button" class="btn btn-primary btn-lg" href='{{< ref "docs" >}}'>Explorar el plan de esudios</a>
 </center>
