@@ -52,5 +52,6 @@ title: "Documentos"
 * [Escuela de Código para PILARES Tabla de especificaciones e Instrumentos de
     evaluación -
     MBD](https://github.com/Escuela-de-codigo-PILARES-IIMAS/Escuela-de-codigo-PILARES-IIMAS.github.io/raw/main/docs/Escuela%20de%20C%C3%B3digo%20para%20PILARES%20Tabla%20de%20especificaciones%20e%20Instrumentos%20de%20evaluaci%C3%B3n%20-%20MBD.pdf)
-* [Escuela de Código para PILARES Anexo módulos]()
+* [Escuela de Código para PILARES Anexo
+    módulos](https://github.com/Escuela-de-codigo-PILARES-IIMAS/Escuela-de-codigo-PILARES-IIMAS.github.io/tree/main/docs/anexos)
 
