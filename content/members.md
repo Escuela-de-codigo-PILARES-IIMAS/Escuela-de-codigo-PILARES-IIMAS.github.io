@@ -2,7 +2,7 @@
 title: "Participantes"
 ---
 
-### Estudiantes
+### Estudiantes becadas
 
 Encargadas del desarrollo de actividades
 
@@ -27,6 +27,13 @@ Encargadas del desarrollo de actividades
     Computación](https://www.ingenieria.unam.mx/programas_academicos/licenciatura/computacion.php),
     [FI](https://www.ingenieria.unam.mx/)
 
+
+### Estudiantes Servicio Social
+
+* Citlalli Sánchez, [Universidad Latina](https://www.unila.edu.mx/campus/unila-campus-sur/)
+* Daniela Garrido, [FES Acatlán-UNAM](https://www.acatlan.unam.mx/)
+* Daniel Gerrero, [FI-UNAM](http://www.ingenieria.unam.mx/)
+* Sheryl Anaya, [FCA-UNAM](https://fca.unam.mx/)
 
 ### Expertos
 
